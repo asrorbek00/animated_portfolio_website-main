@@ -75,7 +75,7 @@ const Hero = () => {
                 </a>
               </li>
               <li>
-                <a href="https://t.me/aser1005">
+                <a href="https://t.me/aser_dev">
                   {" "}
                   <BsTelegram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>

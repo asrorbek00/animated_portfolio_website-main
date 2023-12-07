@@ -14,13 +14,13 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href="https://t.me/aser1005"
+            href="https://t.me/aser_dev"
             className="box font-medium text-white   flex items-center justify-center flex-col"
           >
             <FaTelegramPlane className=" text-black text-3xl hover:scale-125 cursor-pointer" />
             <p>Telegram</p>
           </a>
-          <p>+998978320508</p>
+          <p>+998971632328</p>
         </div>
         <div className="sm:text-[12px]">
           | Copyright &copy; <span>2023 asrorbek </span> All rights reserved
