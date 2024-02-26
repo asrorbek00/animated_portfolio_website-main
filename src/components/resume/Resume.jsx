@@ -44,7 +44,11 @@ const Resume = () => {
                  
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                  looking up for work
+                 I've worked in SMM agency for a month 
+                 in that time i have created two webesites 
+                 1 For SMM agency
+                 2 N1Beton
+                 with reponsive design in React using Tailwind.css
                 </p>
               </div>
             </div>
